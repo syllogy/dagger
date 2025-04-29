@@ -19,7 +19,7 @@ require (
 	github.com/charmbracelet/lipgloss v1.0.0
 	github.com/chzyer/readline v1.5.1
 	github.com/containerd/console v1.0.4
-	github.com/containerd/containerd v1.7.24
+	github.com/containerd/containerd v1.7.27
 	github.com/containerd/containerd/api v1.8.0
 	github.com/containerd/continuity v0.4.5
 	github.com/containerd/errdefs v1.0.0
@@ -166,7 +166,7 @@ require (
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/containerd/nydus-snapshotter v0.14.0 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.15.1 // indirect
-	github.com/containerd/ttrpc v1.2.5 // indirect
+	github.com/containerd/ttrpc v1.2.7 // indirect
 	github.com/containerd/typeurl/v2 v2.2.0 // indirect
 	github.com/containernetworking/plugins v1.4.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.5 // indirect
